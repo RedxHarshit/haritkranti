@@ -41,11 +41,11 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repo**
     ```
-    git clone https://github.com/[YOUR_GITHUB_USERNAME]/smart-irrigation-system.git
+    git clone https://github.com/RedxHarshit/haritkranti.git
     ```
 2.  **Navigate to the project directory**
     ```
-    cd smart-irrigation-system
+    cd haritkranti
     ```
 3.  **Install dependencies**
     ```
